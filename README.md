@@ -1,0 +1,1 @@
+this is a multithreaded program to search for a string in files. the user must enter a directory to search and then there will be a table with a list of all files that contain this string. i used c++ and WinAPI functions to write this program and its interface
